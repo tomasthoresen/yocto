@@ -1,0 +1,18 @@
+[submodule "poky"]
+	path = poky
+	url = git://git.yoctoproject.org/poky.git
+[submodule "metalayers/meta-xilinx"]
+	path = metalayers/meta-xilinx
+	url = https://github.com/Xilinx/meta-xilinx
+[submodule "metalayers/meta-petalinux"]
+	path = metalayers/meta-petalinux
+	url = https://github.com/Xilinx/meta-petalinux
+[submodule "metalayers/openembedded-core"]
+	path = metalayers/openembedded-core
+	url = git://git.openembedded.org/openembedded-core
+[submodule "metalayers/meta-openembedded"]
+	path = metalayers/meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded
+[submodule "metalayers/meta-qt5"]
+	path = metalayers/meta-qt5
+	url = https://github.com/meta-qt5/meta-qt5
